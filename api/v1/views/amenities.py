@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Amenities view"""
+""" Amenities """
 
 
 from flask import abort, jsonify, request
