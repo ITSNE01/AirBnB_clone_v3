@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""API v1 places route."""
+""" Places """
 
 from api.v1.views import app_views
 from flask import jsonify, request, abort
